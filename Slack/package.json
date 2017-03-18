@@ -1,0 +1,14 @@
+{
+  "name": "slackbot",
+  "version": "1.0.0",
+  "description": "This is the first try to create a sample slackbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(\"Hello World!\");"
+  },
+  "author": "Reza Kaj",
+  "license": "ISC",
+  "dependencies": {
+    "restify": "^4.3.0"
+  }
+}
